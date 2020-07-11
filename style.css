@@ -1,0 +1,15 @@
+
+.deleteTask {
+cursor: pointer;
+color: blue;
+}
+
+.editTask {
+cursor: pointer;
+color: blue;
+}
+
+.done {
+text-decoration: line-through;
+color:grey;
+}
